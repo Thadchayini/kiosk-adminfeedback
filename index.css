@@ -1,0 +1,15 @@
+body{
+
+  padding-top: 1000px;
+
+}
+#box {
+		    background-color: lightgrey;
+		    width: 700px;
+		    border: 25px solid green;
+		    padding: 25px;
+		    margin: 25px;
+		}
+.panel-heading{
+  color:.blue;
+}
